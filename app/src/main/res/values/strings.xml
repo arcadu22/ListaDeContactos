@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaDeContactos</string>
+    <string name="nombre">Renso Castañeda</string>
+    <string name="telefono">3003121078</string>
+    <string name="email">arcadu22@hotmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+
+</resources>
